@@ -116,9 +116,10 @@ body {
   );
   border-radius: 50%;
 }
-.results-summary .result .res-num h2 {
+.results-summary .result .res-num h1 {
   font-size: 5rem;
   color: var(--main-white);
+  list-style: 1;
 }
 .results-summary .result .res-num span {
   font-size: 0.9rem;
@@ -145,7 +146,7 @@ body {
 .results-summary .summary .sum-infos .sum-info p {
   margin-left: 8px;
   font-size: 0.9rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 /**1**/
 .results-summary .summary .sum-infos .sum-info:first-child {
