@@ -235,12 +235,14 @@ body {
     flex-direction: column;
     width: 100%;
     height: 100%;
+    box-shadow: none;
   }
   .results-summary .result,
   .results-summary .summary {
     width: 100%;
     padding: 40px;
   }
+
   body {
     background-color: var(--main-white);
   }
