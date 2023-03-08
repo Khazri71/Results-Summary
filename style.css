@@ -146,7 +146,7 @@ body {
 .results-summary .summary .sum-infos .sum-info p {
   margin-left: 8px;
   font-size: 0.9rem;
-  font-weight: 600;
+  font-weight: normal;
 }
 /**1**/
 .results-summary .summary .sum-infos .sum-info:first-child {
